@@ -105,14 +105,43 @@ cd weather-app-react
 npm install
 npm run dev
 ```
+## 4. :rose: Olcademy Internship Assignment - Full Stack Perfume Shop
+**GitHub Repo:** [ManikPandey/Perfume-Shop_Web](https://github.com/ManikPandey/Perfume-Shop_Web)  
 
+The application is designed with a strong focus on a clean, premium user interface and a seamless user experience, drawing inspiration from high-end e-commerce designs. All data is dynamically served from a custom-built backend API.
+
+### 🚀 Key Features  
+- 🔍 **Responsive Navigation Bar:** A clean and sticky navbar that collapses into a hamburger menu on mobile devices. 
+- 🌡️ **Detailed Product Information:** Dynamically loads product name, full description, price, and available sizes
+- 📱 Responsive UI with Material UI cards  
+- ⚛️ Built using **React (Vite) + Axios API calls**
+
+### 📌 Getting Started  
+Terminal 1
+```bash
+git clone https://github.com/ManikPandey/WeatherApp_using_Reactjs.git
+```
+Terminal 1
+```bash
+cd server
+npm install
+npm run dev
+npm run data:import
+npm run dev
+```
+Terminal 2
+```bash
+cd client
+npm install
+npm start
+```
 ---
 
 # 🌍 Deployment Overview  
 - **Nestify:** Render (Backend + Frontend), MongoDB Atlas, Cloudinary  
 - **LogiStudent:** Netlify (Frontend), Render (API), MongoDB Atlas  
 - **Weather App:** Vite (Local/Netlify), OpenWeather API  
-
+- **Perfume-Shop:** Vite (Local/Netlify), Interactive , Dynamic , Attractive , Userfriendly 
 --- 
 
 # 🙌 Author  
